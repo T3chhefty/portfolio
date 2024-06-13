@@ -8,11 +8,8 @@ export default function App() {
   return (
     <>
       <div className="container">
-        {/* header section Div */}
-        <div className="header">
-          <Header />
-        </div>
-       <Hero fname="Shadrach Ndu"/>
+        <Header />
+        <Hero />
         <Main />
         <Contact />
         <Footer />
