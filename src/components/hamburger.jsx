@@ -38,7 +38,7 @@ const [style, setStyle] = useState(hamburger.hide);
         <a href="">Home</a>
         <a href="">Projects</a>
         <a href="">Lets's Talk</a>
-        <a href="https://github.com/T3chhefty">Git Hub</a>
+        <a href="https://github.com/T3chhefty" target="_blank">Git Hub</a>
         <a href="">Download CV</a>
       </div>
     </>
